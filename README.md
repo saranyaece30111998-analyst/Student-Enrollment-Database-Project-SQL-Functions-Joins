@@ -67,7 +67,8 @@ It covers:
 - <img width="692" height="246" alt="time interval" src="https://github.com/user-attachments/assets/3c0dfb71-149a-4e8d-853b-ea34f0249898" />
 
 - Add 10 Days → `DATE_ADD(EnrollmentDate, INTERVAL 10 DAY)`
-![Date Functions Screenshot](screenshots/date_functions.png)
+-<img width="1050" height="313" alt="updated date" src="https://github.com/user-attachments/assets/7a880fff-d64f-4393-b79e-8aa9e28762ae" />
+
 
 ---
 

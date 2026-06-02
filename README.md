@@ -55,6 +55,8 @@ It covers:
 - ABS(-15) → `15`
 - <img width="617" height="245" alt="abso  values" src="https://github.com/user-attachments/assets/b34caa62-885b-4f16-a897-5817f361e39a" />
 - MOD(25, 4) → `1`
+- <img width="627" height="222" alt="mod" src="https://github.com/user-attachments/assets/c9b4ab16-28d3-4877-b217-65a74dd5e214" />
+
   
 
 ### 6. Date Functions Example

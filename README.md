@@ -42,8 +42,10 @@ It covers:
 
 ### 4. String Functions Example
 - CONCAT → `Aarav from Chennai`
+  <img width="675" height="292" alt="concat" src="https://github.com/user-attachments/assets/f1de65d8-d89a-4e31-ac46-6dbaeade0080" />
+
 - LENGTH → Character count of names
-![String Functions Screenshot](screenshots/string_functions.png)
+
 
 ### 5. Numeric Functions Example
 - ROUND(123.4567, 2) → `123.46`

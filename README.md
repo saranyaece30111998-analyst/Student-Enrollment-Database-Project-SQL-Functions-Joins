@@ -34,7 +34,7 @@ It covers:
 
 
 ### 2. Students with Courses (LEFT JOIN)
-![Left Join Result Screenshot](screenshots/left_join.png)
+<img width="678" height="537" alt="left join" src="https://github.com/user-attachments/assets/f6683a4b-963d-454e-8d13-4a5c5e5d0920" />
 
 ### 3. Students with Courses (RIGHT JOIN)
 ![Right Join Result Screenshot](screenshots/right_join.png)

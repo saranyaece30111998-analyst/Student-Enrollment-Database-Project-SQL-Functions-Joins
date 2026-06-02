@@ -45,6 +45,8 @@ It covers:
  - <img width="675" height="292" alt="concat" src="https://github.com/user-attachments/assets/f1de65d8-d89a-4e31-ac46-6dbaeade0080" />
 
 - LENGTH → Character count of names
+- <img width="617" height="245" alt="abso  values" src="https://github.com/user-attachments/assets/0da8fba6-8cef-4262-bd84-396071df6856" />
+
 -<img width="766" height="371" alt="charcter count" src="https://github.com/user-attachments/assets/1bcdca73-4b43-454c-a413-df86b99ee2d5" />
  
 

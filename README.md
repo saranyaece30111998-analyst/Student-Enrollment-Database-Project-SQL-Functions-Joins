@@ -1,1 +1,81 @@
-# Student-Enrollment-Database-Project-SQL-Functions-Joins
+
+# 📊 Student Enrollment Database Project – SQL Functions & Joins
+
+## 📌 Project Overview
+This project demonstrates how to design and query a **Student Enrollment Database** using SQL.  
+It covers:
+- Database creation (DDL)
+- Data insertion (DML)
+- Joins (INNER, LEFT, RIGHT)
+- String, numeric, and date functions
+- Practical queries for reporting and analysis
+
+---
+
+## 🗂️ Database Schema
+- **Students**: Stores student details (ID, Name, Age, City)
+- **Courses**: Stores course details (ID, Name, Duration)
+- **Enrollments**: Links students to courses with enrollment dates
+
+---
+
+## 🛠️ SQL Features Demonstrated
+- **Joins**: INNER JOIN, LEFT JOIN, RIGHT JOIN
+- **String Functions**: `CONCAT`, `LENGTH`, `REPLACE`, `SUBSTRING`, `UPPER`, `LOWER`
+- **Numeric Functions**: `ROUND`, `ABS`, `MOD`
+- **Date Functions**: `NOW()`, `DATEDIFF()`, `DATE_ADD()`
+
+---
+
+## 📸 Results & Screenshots
+
+### 1. Students with their Enrollments (INNER JOIN)
+![Inner Join Result Screenshot](screenshots/inner_join.png)
+
+### 2. Students with Courses (LEFT JOIN)
+![Left Join Result Screenshot](screenshots/left_join.png)
+
+### 3. Students with Courses (RIGHT JOIN)
+![Right Join Result Screenshot](screenshots/right_join.png)
+
+### 4. String Functions Example
+- CONCAT → `Aarav from Chennai`
+- LENGTH → Character count of names
+![String Functions Screenshot](screenshots/string_functions.png)
+
+### 5. Numeric Functions Example
+- ROUND(123.4567, 2) → `123.46`
+- ABS(-15) → `15`
+- MOD(25, 4) → `1`
+![Numeric Functions Screenshot](screenshots/numeric_functions.png)
+
+### 6. Date Functions Example
+- Current Date/Time → `NOW()`
+- Days Between → `DATEDIFF('2025-06-01','2025-05-10') = 22`
+- Add 10 Days → `DATE_ADD(EnrollmentDate, INTERVAL 10 DAY)`
+![Date Functions Screenshot](screenshots/date_functions.png)
+
+---
+
+## 🚀 How to Run
+1. Copy the SQL script into your MySQL/MariaDB environment.
+2. Execute step by step:
+   - Create database and tables
+   - Insert sample data
+   - Run queries
+3. Capture results and save screenshots in a `screenshots/` folder.
+
+---
+
+## 🎯 Learning Outcomes
+- Understanding relational database design
+- Practicing joins for combining data
+- Applying SQL functions for reporting
+- Building a portfolio‑ready SQL project
+
+---
+
+## 📧 Contact
+Created by **Saranya**  
+📍 India  
+💼 Data Analyst | SQL | Power BI | Python  

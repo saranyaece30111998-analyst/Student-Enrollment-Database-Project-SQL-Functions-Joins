@@ -52,8 +52,8 @@ It covers:
 ### 5. Numeric Functions Example
 - ROUND(123.4567, 2) → `123.46`
 - <img width="485" height="266" alt="rounded value" src="https://github.com/user-attachments/assets/997435c2-a75d-4394-b1a0-f3d443957478" />
-
 - ABS(-15) → `15`
+- <img width="617" height="245" alt="abso  values" src="https://github.com/user-attachments/assets/b34caa62-885b-4f16-a897-5817f361e39a" />
 - MOD(25, 4) → `1`
   
 

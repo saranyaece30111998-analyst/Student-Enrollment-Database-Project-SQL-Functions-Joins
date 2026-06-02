@@ -37,7 +37,8 @@ It covers:
 <img width="678" height="537" alt="left join" src="https://github.com/user-attachments/assets/f6683a4b-963d-454e-8d13-4a5c5e5d0920" />
 
 ### 3. Students with Courses (RIGHT JOIN)
-![Right Join Result Screenshot](screenshots/right_join.png)
+<img width="616" height="501" alt="right join" src="https://github.com/user-attachments/assets/0b4552ba-28c7-47c9-ad4d-329c8bf25e54" />
+
 
 ### 4. String Functions Example
 - CONCAT → `Aarav from Chennai`

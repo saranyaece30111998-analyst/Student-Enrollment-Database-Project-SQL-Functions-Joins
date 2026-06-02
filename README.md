@@ -61,6 +61,8 @@ It covers:
 
 ### 6. Date Functions Example
 - Current Date/Time → `NOW()`
+- <img width="592" height="302" alt="now" src="https://github.com/user-attachments/assets/cf865a11-cbc6-4520-9ec9-0a5e616720e1" />
+
 - Days Between → `DATEDIFF('2025-06-01','2025-05-10') = 22`
 - Add 10 Days → `DATE_ADD(EnrollmentDate, INTERVAL 10 DAY)`
 ![Date Functions Screenshot](screenshots/date_functions.png)

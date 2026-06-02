@@ -51,9 +51,11 @@ It covers:
 
 ### 5. Numeric Functions Example
 - ROUND(123.4567, 2) → `123.46`
+- <img width="485" height="266" alt="rounded value" src="https://github.com/user-attachments/assets/997435c2-a75d-4394-b1a0-f3d443957478" />
+
 - ABS(-15) → `15`
 - MOD(25, 4) → `1`
-![Numeric Functions Screenshot](screenshots/numeric_functions.png)
+  
 
 ### 6. Date Functions Example
 - Current Date/Time → `NOW()`

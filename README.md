@@ -30,7 +30,8 @@ It covers:
 ## 📸 Results & Screenshots
 
 ### 1. Students with their Enrollments (INNER JOIN)
-![Inner Join Result Screenshot](screenshots/inner_join.png)
+<img width="700" height="467" alt="inner join" src="https://github.com/user-attachments/assets/208bbb41-9f9a-4da4-92b2-98897ea90b1f" />
+
 
 ### 2. Students with Courses (LEFT JOIN)
 ![Left Join Result Screenshot](screenshots/left_join.png)
